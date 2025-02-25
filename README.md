@@ -17,3 +17,8 @@ In any project involving a web interface, it is important to be able to plan out
 6. Lists (ul, ol, li)
 7. Sections (div)
 8. Social media icons (identify what tag a social media icon is)
+
+## First stage - Putting elements on the page
+At this point of my project, the high-level stuff should be complete. I will put the basic layout with a bunch of boilerplate text that I make up on the fly in my elements. I should focus on making sure that things are legible.
+
+This means adding padding for the main body of content. I might need to set the width and height of a laptop image. All headings and lis should be labeled. so should all p elements. I should check the margins and paddings as I add these elements. We could probably rely on CSS Flex to do things if necessary, and align text to the center.
